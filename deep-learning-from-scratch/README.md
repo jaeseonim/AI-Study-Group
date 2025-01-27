@@ -49,7 +49,7 @@ You can run the example code provided in the book using the following methods:
 - Click the Run button (▶️) in the top-right corner.
 
 ### Method 2: Using the Terminal (Highly Recommended)
-1. Open the terminal in VSCode (Ctrl+`).
+1. Open the terminal in VSCode.
 2. Navigate to the ch01 folder:
 ```bash
 cd ch01
