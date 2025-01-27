@@ -84,8 +84,8 @@ cd ..
 - Solution:
   - In the dataset folder, right-click the target file and select Copy Path.
   - Paste the path inside single quotes (`' '`) and add an `r` prefix to handle escape characters:
-    
-  ```python
+
+    ```python
   img_path = r'path_to_image'
   ```
 
