@@ -85,7 +85,7 @@ cd ..
   
   1. In the dataset folder, right-click the target file and select Copy Path.
   2. Paste the path inside single quotes (`' '`) and add an `r` prefix to handle escape characters:
-
+     
   ```python
   img_path = r'path_to_image'
   ```
@@ -94,6 +94,7 @@ cd ..
 - Issue: Using deprecated NumPy data types.
 - Solution:
    - Replace `np.int` with `int`:
+     
      ```python
      y = int(x > 0)
      ```
