@@ -25,16 +25,11 @@ Follow these steps to set up your environment for the study:
 
 ### 4. Clone the Repository
 1. Visit the repository for *Deep Learning from Scratch*: [GitHub Repository](https://github.com/kchcoo/WegraLee-deep-learning-from-scratch)
-   
 2. Copy the HTTPS URL:  
    `https://github.com/kchcoo/WegraLee-deep-learning-from-scratch.git`
-
 3. Open VSCode, press **F1**, and type or select **Git: Clone**.
-   
 4. Paste the copied URL and press **Enter**.
-   
 5. Choose a location for cloning (e.g., Desktop).
-    
 6. The folder and files from the GitHub repository will be cloned to your system.
 
 ### 5. Library Installation
