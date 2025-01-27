@@ -82,8 +82,10 @@ cd ..
 ### 1. Chapter 1: `img_show.py`
 - Issue: File path errors when loading images.
 - Solution:
+  
   1. In the dataset folder, right-click the target file and select Copy Path.
   2. Paste the path inside single quotes (`' '`) and add an `r` prefix to handle escape characters:
+
   ```python
   img_path = r'path_to_image'
   ```
