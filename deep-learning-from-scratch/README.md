@@ -77,6 +77,7 @@ cd ..
 ### 1. Chapter 1: `img_show.py`
 - Issue: File path errors when loading images.
 - Solution:
+  
   - In the dataset folder, right-click the target file and select Copy Path.
   - Paste the path inside single quotes (`' '`) and add an `r` prefix to handle escape characters:
 
@@ -87,6 +88,7 @@ cd ..
 ### 2. Chapter 3: Errors in `step_function.py`
 - Issue: Using deprecated NumPy data types.
 - Solution:
+  
    - Replace `np.int` with `int`:
      
      ```python
