@@ -1,6 +1,6 @@
 # Deep Learning from Scratch
 
-This folder contains study materials and tutorials for the **Convolutional Neural Networks (CNN)** phase of the RATEL AI Study Group. 
+This folder contains study materials for the **Convolutional Neural Networks (CNN)** phase of the RATEL AI Study Group. 
 
 ## 🛠️ Environment Setup
 
