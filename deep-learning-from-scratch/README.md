@@ -85,7 +85,6 @@ cd ..
 - Issue: Using deprecated NumPy data types.
 - Solution:
    - Replace `np.int` with `int`:
-     
      ```python
      y = int(x > 0)
      ```
