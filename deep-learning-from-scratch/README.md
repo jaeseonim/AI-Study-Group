@@ -45,7 +45,7 @@ pip install numpy
 pip install matplotlib
 ```
 
-## Hands-on Example: Hungry.py (ch01)
+## Hands-on Example: `hungry.py` (ch01)
 
 You can run the example code provided in the book using the following methods:
 
