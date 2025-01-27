@@ -61,7 +61,7 @@ cd ..
 - Use the **Tab** key to autocomplete file paths or commands.
 - Press **Tab** multiple times to view available options.
 
-📌 **Note**: If you want to test your own code, create a new Python file in the current folder. Ensure the file name does not conflict with existing files.
+📌 If you want to test your own code, create a new Python file in the current folder. Ensure the file name does not conflict with existing files.
 
 ## 🛠️ Common Errors and Solutions
 
