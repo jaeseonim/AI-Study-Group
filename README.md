@@ -35,4 +35,4 @@ We have now established a structured 4-step study plan as outlined below.
 
 ---
 
-📌 **Note**: If you are interested in organizing an AI study group and need guidance, this repository can serve as a helpful reference. 
+📌 If you are interested in organizing an AI study group and need guidance, this repository can serve as a helpful reference. 
