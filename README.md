@@ -10,8 +10,6 @@ In March 2024, the group started with 14 members, and we welcomed 4 new members 
 
 We have now established a structured 4-step study plan as outlined below.
 
----
-
 ## 📚 Study Progression
 
 1. **Introduction to Neural Networks**
