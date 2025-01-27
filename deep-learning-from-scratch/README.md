@@ -84,7 +84,7 @@ cd ..
     img_path = r'path_to_image'
     ```
 
-### 2. Chapter 3: Errors in step_function.py
+### 2. Chapter 3: Errors in `step_function.py`
 - Issue: Using deprecated NumPy data types.
 - Solution:
    - Replace `np.int` with `int`:
