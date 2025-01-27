@@ -22,11 +22,10 @@ We have now established a structured 4-step study plan as outlined below.
 
 3. **Recurrent Neural Networks (RNN)**
    - **Book**: [*Deep Learning from Scratch 2*](https://www.amazon.co.jp/-/en/%E6%96%8E%E8%97%A4-%E5%BA%B7%E6%AF%85/dp/4873118360) | [밑바닥부터 시작하는 딥러닝 2](https://product.kyobobook.co.kr/detail/S000001810145)
-   - **Hands-on Project**: *To be decided.* (This stage is yet to be implemented.)
+   - **Hands-on Project**: *To be decided.* 
 
 4. **Collaborative Paper Discussions**  
-   - **Plan**: Share and discuss papers on topics of interest, selecting those relevant to AI in medicine or other areas of focus.
-   - **Status**: Remain in the planning phase.
+   - **Plan**: Share and discuss papers on topics of interest, selecting those relevant to AI in medicine or other areas of focus. (*This stage is still in the planning phase.*)
 
 ## 🎯 Study Goals
 
