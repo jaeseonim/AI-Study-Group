@@ -19,8 +19,7 @@ Follow these steps to set up your environment for the study:
 - Download and install Git: [Git Downloads](https://git-scm.com/downloads)
 
 ### 4. Clone the Repository
-1. Visit the repository for *Deep Learning from Scratch*:  
-   [GitHub Repository](https://github.com/kchcoo/WegraLee-deep-learning-from-scratch)
+1. Visit the repository for *Deep Learning from Scratch*: [GitHub Repository](https://github.com/kchcoo/WegraLee-deep-learning-from-scratch)
 2. Copy the HTTPS URL:  
    `https://github.com/kchcoo/WegraLee-deep-learning-from-scratch.git`
 3. Open VSCode, press **F1**, and type or select **Git: Clone**.
@@ -58,11 +57,11 @@ python hungry.py
 cd ..
 ```
 
-💡**Tips for Terminal Navigation**
+💡 **Tips for Terminal Navigation**
 - Use the **Tab** key to autocomplete file paths or commands.
 - Press **Tab** multiple times to view available options.
 
-📌**Note**: If you want to test your own code, create a new Python file in the current folder. Ensure the file name does not conflict with existing files.
+📌 **Note**: If you want to test your own code, create a new Python file in the current folder. Ensure the file name does not conflict with existing files.
 
 ## 🛠️ Common Errors and Solutions
 
