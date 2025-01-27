@@ -84,8 +84,8 @@ cd ..
 
 - Issue: File path errors when loading images.
 - Solution:
-  - In the dataset folder, right-click the target file and select Copy Path.
-  - Paste the path inside single quotes (`' '`) and add an `r` prefix to handle escape characters:
+  - Use the `Copy Path` option to get the image file path. Add it inside single quotes and prefix it with `r`:
+    
     ```python
     img_path = r'path_to_image'
     ```
@@ -95,6 +95,7 @@ cd ..
 - Issue: Using deprecated NumPy data types.
 - Solution:
    - Replace `np.int` with `int`:
+     
      ```python
      y = int(x > 0)
      ```
