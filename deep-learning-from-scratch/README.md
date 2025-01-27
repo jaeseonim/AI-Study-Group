@@ -8,11 +8,9 @@ Follow these steps to set up your environment for the study:
 
 ### 1. Install Python and VSCode
 - **Python:**
-  
    - Download and install Python from the official site: [Python Downloads](https://www.python.org/downloads/)
    - *Recommended Version:* Python 3.8 or higher.
 - **VSCode (Visual Studio Code):**
-  
    - Download and install VSCode: [VSCode Downloads](https://code.visualstudio.com/)
 
 ### 2. Install Python Extension for VSCode
@@ -77,7 +75,6 @@ cd ..
 ### 1. Chapter 1: `img_show.py`
 - Issue: File path errors when loading images.
 - Solution:
-  
   - In the dataset folder, right-click the target file and select Copy Path.
   - Paste the path inside single quotes (`' '`) and add an `r` prefix to handle escape characters:
 
@@ -88,7 +85,6 @@ cd ..
 ### 2. Chapter 3: Errors in `step_function.py`
 - Issue: Using deprecated NumPy data types.
 - Solution:
-  
    - Replace `np.int` with `int`:
      
      ```python
