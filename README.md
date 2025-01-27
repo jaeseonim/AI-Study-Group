@@ -38,6 +38,6 @@ We have now established a structured 4-step study plan as outlined below.
 - ✅ Gain hands-on experience by writing and implementing code.  
 - ✅ Collaborate and grow with peers who share similar interests in AI and its applications in medicine. 
 
-<div style="background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
-<b>Note:</b> If you are looking to organize an AI study group but are unsure where to start, feel free to use this repository as a reference! 😊
-</div>
+---
+
+📌 **Note**: If you are looking to organize an AI study group but are unsure where to start, feel free to use this repository as a reference! 😊
