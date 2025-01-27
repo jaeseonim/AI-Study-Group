@@ -86,8 +86,8 @@ cd ..
   - Paste the path inside single quotes (`' '`) and add an `r` prefix to handle escape characters:
 
     ```python
-  img_path = r'path_to_image'
-  ```
+    img_path = r'path_to_image'
+    ```
 
 ### 2. Chapter 3: Errors in step_function.py
 - Issue: Using deprecated NumPy data types.
