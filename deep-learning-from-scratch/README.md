@@ -31,9 +31,10 @@ Follow these steps to set up your environment for the study:
 ### 5. Library Installation
 
 Open a terminal (Ctrl+') and install the required libraries:
-```
+```bash
 pip install numpy
-pip install matplotlib'''
+pip install matplotlib
+```
 
 ## Hands-on Example: Hungry.py (ch01)
 
@@ -42,10 +43,43 @@ You can run the example code provided in the book using the following methods:
 ### Method 1: Using the Run Button
 - Open the file and click the Run button in VSCode.
 
-### Method 2: Using the Terminal (Recommended)
+### Method 2: Using the Terminal (Highly Recommended)
 1. Open the terminal (Ctrl+`).
 2. Navigate to the ch01 folder:
+```bash
+cd ch01
+```
+3. Run the script:
+```bash
+python hungry.py
+```
+4. To go back to the parent folder:
+```bash
+cd ..
+```
 
+💡**Tips for Terminal Navigation**
+- Use the **Tab** key to autocomplete file paths or commands.
+- Press **Tab** multiple times to view available options.
 
+📌**Note**: If you want to test your own code, create a new Python file in the current folder. Ensure the file name does not conflict with existing files.
 
+## 🛠️ Common Errors and Solutions
 
+### 1. Chapter 1: `img_show.py`
+- In the dataset folder:
+  1. Right-click the target file and select Copy Path.
+  2. Paste the path inside single quotes (`' '`) and add an `r` prefix:
+  ```python
+  img_path = r'path_to_image'
+  ```
+
+### 2. Chapter 3: Errors in step_function.py
+- Replace `np.int` with `int`:
+  ```python
+  y = int(x > 0)
+  ```
+
+---
+
+If you encounter any additional issues, feel free to ask for help or refer to the documentation.
