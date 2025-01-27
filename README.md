@@ -16,7 +16,7 @@ We have now established a structured 4-step study plan as outlined below.
    - **Book**: [*Make Your Own Neural Network*](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608) | [신경망 첫걸음](https://product.kyobobook.co.kr/detail/S000001057736)
    - **Hands-on Project**: Build a handwritten digit recognition program.
 
-2. **Convolutional Neural Networks (CNN)**
+2. [**Convolutional Neural Networks (CNN)**](https://github.com/jaeseonim/AI-Study-Group/tree/main/deep-learning-from-scratch)
    - **Book**: [*Deep Learning from Scratch*](https://www.amazon.co.jp/-/en/%E6%96%8E%E8%97%A4-%E5%BA%B7%E6%AF%85/dp/4873117585/ref=sr_1_1?crid=3GTL1RN3S9UKU&dib=eyJ2IjoiMSJ9.BSJwVIIOHE6YoQRMnC_Atr3guHh3CZHN5o796dAWFCGXHennOFOA9HtC0IZoe1CJtJ0oPnqDNoRs-canO1-hMc40iIbxdHqvwlFuqtQSmvM0gsVsVZIPSocHRK7Oqk3IUsFEJ--0JuDWgsU714OWvqEQq3oiPyyI8iVXxi57bkvJQ3MoW2yDfK9UwFtMsXw4.Zooelj6fwZ0DEKjKePE4ZLE0-wc1Xs3RWhzNj3yNPQs&dib_tag=se&keywords=%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8BDeep+Learning&qid=1737987001&s=books&sprefix=%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8Bdeep+learning+%2Cstripbooks%2C177&sr=1-1) | [밑바닥부터 시작하는 딥러닝](https://product.kyobobook.co.kr/detail/S000001057805)
    - **Hands-on Project**: Apply CNN to public image datasets.
 
