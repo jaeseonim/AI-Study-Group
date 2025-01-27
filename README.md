@@ -25,9 +25,8 @@ We have now established a structured 4-step study plan as outlined below.
    - **Hands-on Project**: *To be decided.* (This stage is yet to be implemented.)
 
 4. **Collaborative Paper Discussions**  
-   - Members share and discuss papers on topics they find interesting.
-   - **Status**: This stage is still in the planning phase.
-   - **Tentative Plan**: Select papers based on relevance to AI in medicine or other areas of interest.
+   - **Plan**: Share and discuss papers on topics of interest, selecting those relevant to AI in medicine or other areas of focus.
+   - **Status**: Remain in the planning phase.
 
 ## 🎯 Study Goals
 
