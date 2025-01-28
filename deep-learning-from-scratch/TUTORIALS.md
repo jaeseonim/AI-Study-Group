@@ -93,5 +93,5 @@ cd ..
    - Replace `np.int` with `int`:
      
      ```python
-     y = int(x > 0)
+     return np.array(x > 0, dtype=int)
      ```
