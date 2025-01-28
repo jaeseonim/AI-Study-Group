@@ -74,7 +74,7 @@ cd ..
 - Ensure the file name does not conflict with existing files.
 - Write and run your code following the methods above.
 
-## 🛠️ Error and Solution `step_function.py` (ch03)
+## 🛠️ Error and Solution: `step_function.py` (ch03)
 
 - Issue: Using deprecated NumPy data types.
 - Solution:
