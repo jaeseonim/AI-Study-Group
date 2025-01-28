@@ -74,19 +74,7 @@ cd ..
 - Ensure the file name does not conflict with existing files.
 - Write and run your code following the methods above.
 
-## 🛠️ Common Errors and Solutions
-
-### 1. Chapter 1: `img_show.py`
-
-- Issue: File path errors when loading images.
-- Solution:
-  - Use the `Copy Path` option to get the image file path. Add it inside single quotes and prefix it with `r`:
-    
-    ```python
-    img_path = r'path_to_image'
-    ```
-
-### 2. Chapter 3: Errors in `step_function.py`
+## 🛠️ Error and Solution `step_function.py` (ch03)
 
 - Issue: Using deprecated NumPy data types.
 - Solution:
