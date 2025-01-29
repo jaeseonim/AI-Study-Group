@@ -4,7 +4,7 @@ This folder contains tutorials and study materials for the **Intermediate MLP & 
 
 ## Steps
 
-1. 📝 **Tutorials**: Refer to `TUTORIALS.MD` for detailed guides. *Video tutorials are included.*
+1. 📝 **Tutorials**: Refer to `TUTORIALS.MD` for detailed guides. [Video Link](https://www.youtube.com/watch?v=fUaBF33OYZM )
    
 2. ⚙️ **Running Code**: Thoroughly read the book while running the provided code examples as outlined in the tutorials. Focus on understanding the core concepts behind each implementation.  
 
