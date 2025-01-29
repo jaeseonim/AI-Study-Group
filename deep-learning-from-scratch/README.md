@@ -8,7 +8,7 @@ This folder contains tutorials and study materials for the **Intermediate MLP & 
    
 2. ⚙️ **Running Code**: Thoroughly read the book while running the provided code examples as outlined in the tutorials. Focus on understanding the core concepts behind each implementation.  
 
-3. 📂 **Exploring Projects**: Work through the `Projects_example.ipynb` file, which demonstrates how to apply MLP and CNN algorithms to public datasets. The project emphasizes comparing the accuracy of these algorithms to provide hands-on experience with real-world data. *Videos will be added soon.*
+3. 📂 **Exploring Projects**: Work through the `Projects_example.ipynb` file, which demonstrates how to apply MLP and CNN algorithms to public datasets. The project emphasizes comparing the accuracy of these algorithms to provide hands-on experience with real-world data. [Video Link](https://www.youtube.com/watch?v=TxejE0NKPiE&t=1391s)
 
 4. 🎯 **Assignment**: Choose one of the following tasks and present your findings in a PowerPoint presentation:
    - Analyze the accuracy of MLP and CNN using the MNIST dataset introduced in the book.
