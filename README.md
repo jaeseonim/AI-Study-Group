@@ -1,7 +1,5 @@
 # AI Study Group
 
-This repository outlines the AI study activities organized by RATEL, an academic club at Dankook University College of Medicine.
-
 ## 🤖 Introduction to RATEL and the AI Study
 
 RATEL is an interdisciplinary studies club at Dankook University that focuses on book discussions and AI studies. The club was founded in 2024 by a group of peers from the same class, including myself. I currently serve as the AI study leader and have been managing the study sessions since its inception.
