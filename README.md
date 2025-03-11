@@ -6,7 +6,7 @@ RATEL is an interdisciplinary studies club at Dankook University. The club was f
 
 In March 2024, the group started with 14 members, and we welcomed 4 new members in September. With no prior experience in AI or coding, I initially faced challenges in managing the study sessions effectively. Nonetheless, I embraced my role as a leader and consistently worked to enhance my knowledge to better support members' questions.
 
-We have now established a structured 4-step study plan as outlined below.
+We have now established a structured 3-step study plan as outlined below.
 
 ## 📚 Study Progression
 
