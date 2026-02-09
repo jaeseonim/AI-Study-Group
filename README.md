@@ -21,6 +21,7 @@ RATEL은 단국대학교 의과대학의 학술동아리로, 독서모임/AI 스
 
 - 내용: 신경망의 원리 이해 및 이미지 처리 기초
 - 자료: 도서 [밑바닥부터 시작하는 딥러닝 1](https://product.kyobobook.co.kr/detail/S000215599933)
+- 보충 자료: [3Blue1Brown 선형대수학](https://www.youtube.com/playlist?list=PLkoaXOTFHiqhVDo0nWybNmihCP_4BjOFR)
 
 ### Step 3. RNN (Recurrent Neural Network)
 
