@@ -29,7 +29,7 @@ RATEL은 단국대학교 의과대학의 학술동아리로, 독서모임/AI 스
 - 자료: 도서 [밑바닥부터 시작하는 딥러닝 2](https://product.kyobobook.co.kr/detail/S000001810145)
 
 ### 이후 계획 후보 (미정)
-- [밑바닥부터 시작하는 딥러닝 5](https://product.kyobobook.co.kr/detail/S000214507043?utm_source=google&utm_medium=cpc&utm_campaign=googleSearch&gt_network=g&gt_keyword=&gt_target_id=aud-901091942354:dsa-1974044869398&gt_campaign_id=9979905549&gt_adgroup_id=132556570510&gad_source=1)를 통해 이미지 생성 모델 이해하기
+- [밑바닥부터 시작하는 딥러닝 5](https://product.kyobobook.co.kr/detail/S000214507043)를 통해 이미지 생성 모델 이해하기
 - 딥러닝 유명한 논문들 중에 자신이 관심 있는 분야 스터디하고 발표 (저널 클럽 형식)
 - 토이 프로젝트 및 연구 참여 
 
