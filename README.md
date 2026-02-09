@@ -19,7 +19,7 @@ We have now established a structured 3-step study plan as outlined below.
    - **Book**: [밑바닥부터 시작하는 딥러닝](https://product.kyobobook.co.kr/detail/S000215599933)
 
 3. **RNN (Recurrent Neural Networks)**
-   - **Book**: [밑바닥부터 시작하는 딥러닝 2]([https://product.kyobobook.co.kr/detail/S000001810145](https://product.kyobobook.co.kr/detail/S000001810145))
+   - **Book**: [밑바닥부터 시작하는 딥러닝 2](https://product.kyobobook.co.kr/detail/S000001810145)
 
 ## 🎯 Study Goals
 
