@@ -1,28 +1,32 @@
 # ai-study-group
 
-## Introduction to RATEL and the AI Study
+## RATEL 및 AI 스터디 소개
 
-RATEL is an interdisciplinary studies club at Dankook University. The club was founded in 2024 by a group of peers from the same class, including myself. I currently serve as the AI study leader and have been managing the study sessions since its inception.
+RATEL은 단국대학교의 학술동아리입니다. 2024년, 뜻이 맞는 동기들과 함께 설립했으며 저는 현재 AI 스터디 리더로서 스터디의 운영을 맡고 있습니다. 2024년 3월 14명의 멤버로 시작해, 9월에는 4명의 신입 멤버가 합류하여 함께하고 있습니다. 
 
-In March 2024, the group started with 14 members, and we welcomed 4 new members in September. With no prior experience in AI or coding, I initially faced challenges in managing the study sessions effectively. Nonetheless, I embraced my role as a leader and consistently worked to enhance my knowledge to better support members' questions.
+## 스터디 커리큘럼 (3-Step Plan)
 
-We have now established a structured 3-step study plan as outlined below.
+우리는 체계적인 학습을 위해 다음과 같은 3단계 로드맵을 실천하고 있습니다.
 
-## Study Progression
+### Step 1. 파이썬 기초
 
-1. **Python Basic**
-   - **Site**:
-      - [프로그래머스 코딩테스트 기초문제](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc)
-      - [프로그래머스 코딩테스트 입문문제](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc)
+- 내용: 프로그래밍 언어의 기초 체력 다지기
+- 자료: 프로그래머스 코딩 테스트 기초 및 입문 문제 풀이
+   -  [프로그래머스 코딩테스트 기초문제](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc)
+   -  [프로그래머스 코딩테스트 입문문제](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc)
 
-2. **Deep Learning Introduction & CNN (Convolutional Neural Networks)**
-   - **Book**: [밑바닥부터 시작하는 딥러닝](https://product.kyobobook.co.kr/detail/S000215599933)
+### Step 2. 딥러닝 입문 & CNN (Convolutional Neural Network)
 
-3. **RNN (Recurrent Neural Networks)**
-   - **Book**: [밑바닥부터 시작하는 딥러닝 2](https://product.kyobobook.co.kr/detail/S000001810145)
+- 내용: 신경망의 원리 이해 및 이미지 처리 기초
+- 자료: 도서 [밑바닥부터 시작하는 딥러닝 1](https://product.kyobobook.co.kr/detail/S000215599933)
 
-## 🎯 Study Goals
+### Step 3. RNN (Recurrent Neural Network)
 
-- ✅ Build foundational and intermediate knowledge of AI to prepare for the AI-driven future.  
-- ✅ Gain hands-on experience by writing and implementing code.  
-- ✅ Collaborate and grow with peers who share similar interests in AI and its applications in medicine. 
+- 내용: 시계열 데이터 및 자연어 처리 기초
+- 자료: 도서 [밑바닥부터 시작하는 딥러닝 2](https://product.kyobobook.co.kr/detail/S000001810145)
+
+## 스터디 목
+
+- ✅ 미래 대비: AI가 주도하는 미래 의료 환경에 대비하기 위한 기초 및 중급 지식을 습득합니다. 
+- ✅ 실전 경험: 이론에 그치지 않고, 직접 코드를 설계하고 구현해봅니다. 
+- ✅ 동반 성장: 의료 분야의 AI 응용에 관심 있는 동료들과 협력하며 함께 성장하는 네트워크를 구축합니다.
