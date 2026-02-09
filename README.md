@@ -1,4 +1,4 @@
-# AI Study Group
+# ai-study-group
 
 ## Introduction to RATEL and the AI Study
 
