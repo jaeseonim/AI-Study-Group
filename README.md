@@ -26,7 +26,3 @@ We have now established a structured 3-step study plan as outlined below.
 - ✅ Build foundational and intermediate knowledge of AI to prepare for the AI-driven future.  
 - ✅ Gain hands-on experience by writing and implementing code.  
 - ✅ Collaborate and grow with peers who share similar interests in AI and its applications in medicine. 
-
----
-
-📌 If you are interested in organizing an AI study group and need guidance, this repository can serve as a helpful reference. 
